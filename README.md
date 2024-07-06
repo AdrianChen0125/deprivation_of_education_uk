@@ -4,11 +4,11 @@ Objectives:
 1. Perform K-means clustering and PCA at the local authority level to evaluate the association among educational deprivation scores and other variables, including income, employment, health, crime, environment,and the population of dependent children.
 2. Predict educational deprivation scores using the multi-linear regression model and compare different variables selected by the correlation matrix and PCA.
 ## Data source
-Download data from
-![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/0e845b2c-906e-4038-8886-5fc261158566)
-https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resources
+Download data from https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resources
+
 ## Methodology
 ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/e7810d61-d25a-47b2-a019-a10ad9107c85)
+
 ## Result 
 1. Data Exploratory Analysis
    ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b3daf25a-2d5f-4ab5-b992-61664c5ebf13)

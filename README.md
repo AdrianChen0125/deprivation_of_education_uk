@@ -18,9 +18,9 @@ https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resource
 #### In correlation analysis, it is inferred that factors such as income, employment, health and crime are significantly correlated to deprivation of education. On the other hand, the influence of the environment, barriers to housing and services, and the population have less association with educational deprivation.
 
 3. K-means
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b3c4dcaa-f264-4021-a963-0347aa2c9f94)
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/e585e682-dfce-4def-965d-16615d6b4953)
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/0032e61b-b968-40e2-b468-1e457fbc5d65)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b3c4dcaa-f264-4021-a963-0347aa2c9f94)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/e585e682-dfce-4def-965d-16615d6b4953)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/0032e61b-b968-40e2-b468-1e457fbc5d65)
 4. PCA
    ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b84cfcaa-262a-4611-afe1-2c482decb393)
    ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/001daacb-70f0-4814-8bb9-ef4ec53a056f)

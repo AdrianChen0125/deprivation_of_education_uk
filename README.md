@@ -22,13 +22,14 @@ https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resource
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/e585e682-dfce-4def-965d-16615d6b4953)
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/0032e61b-b968-40e2-b468-1e457fbc5d65)
 4. PCA
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b84cfcaa-262a-4611-afe1-2c482decb393)
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/001daacb-70f0-4814-8bb9-ef4ec53a056f)
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/a6a6f313-4913-44f1-8208-a9b93df3317e)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b84cfcaa-262a-4611-afe1-2c482decb393)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/001daacb-70f0-4814-8bb9-ef4ec53a056f)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/a6a6f313-4913-44f1-8208-a9b93df3317e)
 
 5. Multi-linear regression
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/bb792b64-cbd5-4678-9ca5-e9598f74dfc7)
-   ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/465e88e7-a62a-4b40-bb98-71d4c2b07acb)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/bb792b64-cbd5-4678-9ca5-e9598f74dfc7)
+   * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/465e88e7-a62a-4b40-bb98-71d4c2b07acb)
+### in the multi-linear regression model, predict educational deprivation using variables associated with educational deprivation score and variables processed by PCA. It is suggested that even though income, employment, health, and crime significantly contributed to the prediction of education deprivation scores.
 
 
 

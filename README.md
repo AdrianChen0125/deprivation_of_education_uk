@@ -25,6 +25,7 @@ https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resource
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b84cfcaa-262a-4611-afe1-2c482decb393)
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/001daacb-70f0-4814-8bb9-ef4ec53a056f)
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/a6a6f313-4913-44f1-8208-a9b93df3317e)
+### from K-means clustering and PCA, a cluster with higher educational deprivation scores is also highly deprived of income, employment, and health.
 
 5. Multi-linear regression
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/bb792b64-cbd5-4678-9ca5-e9598f74dfc7)

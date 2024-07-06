@@ -9,13 +9,13 @@ Download data from
 https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resources
 ## Methodology
 ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/e7810d61-d25a-47b2-a019-a10ad9107c85)
-### Result 
+## Result 
 1. Data Exploratory Analysis
    ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b3daf25a-2d5f-4ab5-b992-61664c5ebf13)
    ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/1256fbd1-c141-4413-8b39-3a2f8564e9ab)
    ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/43819eea-6979-4127-81bf-102bf92295df)
    
-#### In correlation analysis, it is inferred that factors such as income, employment, health and crime are significantly correlated to deprivation of education. On the other hand, the influence of the environment, barriers to housing and services, and the population have less association with educational deprivation.
+### In correlation analysis, it is inferred that factors such as income, employment, health and crime are significantly correlated to deprivation of education. On the other hand, the influence of the environment, barriers to housing and services, and the population have less association with educational deprivation.
 
 3. K-means
    * ![image](https://github.com/AdrianChen0125/deprivation_of_education_uk/assets/105028082/b3c4dcaa-f264-4021-a963-0347aa2c9f94)
